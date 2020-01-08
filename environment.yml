@@ -3,6 +3,8 @@ dependencies:
   - pip:
     - spacy
     - ipykernel
+    - ipywidgets
+    - plotly
     - scipy
     - numpy
     - scikit-learn
